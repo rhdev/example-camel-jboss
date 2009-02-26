@@ -27,6 +27,13 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
 
+  <repositories>
+    <repository>
+      <id>jboss-repo</id>
+      <url>http://repository.jboss.com/maven2</url>
+    </repository>
+  </repositories>
+
   <name>Using Camel With Jboss 5</name>
 
   <properties>

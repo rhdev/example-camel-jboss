@@ -37,7 +37,7 @@
   <name>Using Camel With Jboss 5</name>
 
   <properties>
-    <camel-version>1.6.0</camel-version>
+    <camel-version>2.24.0</camel-version>
   </properties>
 
   <dependencies>
